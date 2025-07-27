@@ -1,7 +1,7 @@
 This repository contains the source code from my video:
  “Building a Website From Scratch – No Talk, Just Code”
 
-You can watch the full video here 👉 
+You can watch the full video here 👉 https://youtu.be/kOsFqKScSDE
 
  Project Overview
 This is a fully hand-coded static website, built with:
